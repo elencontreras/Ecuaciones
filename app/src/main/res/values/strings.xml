@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Ecuaciones</string>
+    <string name="deflexion">Deflexión</string>
+    <string name="pandeo">Pandeo</string>
+    <string name="base">Base</string>
+    <string name="altura">Altura</string>
+    <string name="material">Material</string>
+    <string name="modulo_elasticidad">Módulo de elasticidad del material</string>
+    <string name="longitud_viga">Longitud de la viga</string>
+    <string name="carga">Carga</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="acero">Acero</string>
+    <string name="madera">Madera</string>
+    <string name="concreto_reforzado">Concreto reforzado</string>
+
+    <string name="configuracion_carga">Configuración de la carga</string>
+    <string name="carga_p">Carga (P)</string>
+    <string name="deflexion_maxima">Deflexión Máxima</string>
+    <string name="carga_w">Carga (W)</string>
+    <string name="Momento">Momento</string>
+    <string name="empezar">Empezar</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="error1">Debe ingresar un valor</string>
+    <string-array name="opc_principal">
+        <item>@string/deflexion</item>
+        <item>@string/pandeo</item>
+    </string-array>
+    <string-array name="opc_material">
+        <item>@string/acero</item>
+        <item>@string/madera</item>
+        <item>@string/concreto_reforzado</item>
+    </string-array>
+
+
+</resources>
